@@ -1,0 +1,21 @@
+{
+    "type": 4,
+    "hiver":{
+      "folder": "1688_breviaire_romain_Le-Tourneux_DenysThierry-HIVER",
+      "max": 745,
+      "min": -44,
+      "chapters": [
+            ["Titre", "-", 14],
+            ["Rubriques générales du bréviaire", "-", 28],
+            ["Absolutions et bénédictions", 65, 0],
+            ["Pseautier", 1, 72],
+            ["Propre du temps", 283, 72],
+            ["Commun des Saints", 1, 912],
+            ["Office de la Sainte Vierge", 209, 912],
+            ["Office des morts", 263, 912],
+            ["Litanies", 318, 912],
+            ["Bénédiction de la table", 337, 912],
+            ["Prières du voyageur", 341, 912],
+        ]
+      },
+}
