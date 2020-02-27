@@ -1,0 +1,14 @@
+{
+    "default": "automne",
+    "books": [
+        ["automne", "Automne"]
+    ],
+    "folders": {
+        "automne":
+        ["Automne",
+            "-, -", 0,
+            "-", {
+
+        }]
+    }
+}
