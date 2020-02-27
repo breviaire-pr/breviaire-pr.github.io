@@ -1,0 +1,33 @@
+{
+    "folder": "automne",
+    "offset": 31,
+    "min": 516,
+    "max": 808,
+    "chapters": [
+        ["XXIX. Aoust", 516],
+        ["XXX. Aoust", 523],
+        ["XXXI. Aoust", 524],
+        ["I. Septembre", 527],
+        ["II. Septembre", 528],
+        ["V. Septembre", 532],
+        ["VIII. Septembre", 535],
+        ["X. Septembre", 554],
+        ["XI. Septembre", 556],
+        ["XII. Septembre", 559],
+        ["XIII. Septembre", 563],
+        ["XIV. Septembre", 567],
+        ["XVI. Septembre", 587],
+        ["XVII. Septembre", 590],
+        ["XVIII. Septembre", 596],
+        ["XIX. Septembre", 598],
+        ["XX. Septembre", 602],
+        ["XXI. Septembre", 604],
+        ["XXII. Septembre", 610],
+        ["XXIII. Septembre", 611],
+        ["XXVI. Septembre", 614],
+        ["XXVII. Septembre", 615],
+        ["XXVIII. Septembre", 616],
+        ["XXIX. Septembre", 619],
+        ["XXX. Septembre", 633]
+    ]
+}

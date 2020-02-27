@@ -1,14 +1,16 @@
 {
-    "default": "automne",
+    "default": "pseautier",
     "books": [
-        ["automne", "Automne"]
+        ["automne_preambule", "[automne] Préambule"],
+        ["automne_pseautier", "[automne] Pseautier avec l’Ordinaire"],
+        ["automne_propre_temps", "[automne] Propre du Temps"],
+        ["automne_homelies", "[automne] Homélies et Oraisons"],
+        ["automne_propre_saints", "[automne] Propre des Saints"],
+        ["automne_commun", "[automne] Commun des Saints"]
     ],
     "folders": {
-        "automne":
-        ["Automne",
-            "-, -", 0,
-            "-", {
-
+        "automne": ["Le Bréviaire Romain en latin en en françois […] partie d’automne",
+            "Paris, Denys Thierry", 1688, "https://books.google.fr/books?id=fZBBU2aJOJ4C", {
         }]
     }
 }

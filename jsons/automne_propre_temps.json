@@ -1,0 +1,24 @@
+{
+    "folder": "automne",
+    "offset": 31,
+    "min": 276,
+    "max": 471,
+    "chapters": [
+        ["I. Dimanche de Septembre", 276],
+        ["II. Dimanche de Septembre", 289],
+        ["III. Dimanche de Septembre", 300],
+        ["Quatre-Temps de Septembre", 307],
+        ["IV. Dimanche de Septembre", 316],
+        ["V. Dimanche de Septembre", 329],
+        ["I. Dimanche d’Octobre", 342],
+        ["II. Dimanche d’Octobre", 357],
+        ["III. Dimanche d’Octobre", 369],
+        ["IV. Dimanche d’Octobre", 382],
+        ["V. Dimanche d’Octobre", 395],
+        ["I. Dimanche de Novembre", 410],
+        ["II. Dimanche de Novembre", 425],
+        ["III. Dimanche de Novembre", 437],
+        ["IV. Dimanche de Novembre", 450],
+        ["V. Dimanche de Novembre", 461]
+    ]
+}

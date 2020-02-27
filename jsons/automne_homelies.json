@@ -1,0 +1,28 @@
+{
+    "folder": "automne",
+    "offset": 31,
+    "min": 472,
+    "max": 515,
+    "chapters": [
+        ["IX. Dimanche après la Pentecoste", 472],
+        ["X. Dimanche après la Pentecoste", 474],
+        ["XI. Dimanche après la Pentecoste", 476],
+        ["XII. Dimanche après la Pentecoste", 479],
+        ["XIII. Dimanche après la Pentecoste", 481],
+        ["XIV. Dimanche après la Pentecoste", 483],
+        ["XV. Dimanche après la Pentecoste", 485],
+        ["XVI. Dimanche après la Pentecoste", 487],
+        ["XVII. Dimanche après la Pentecoste", 490],
+        ["XVIII. Dimanche après la Pentecoste", 492],
+        ["XIX. Dimanche après la Pentecoste", 494],
+        ["XX. Dimanche après la Pentecoste", 496],
+        ["XXI. Dimanche après la Pentecoste", 498],
+        ["XXII. Dimanche après la Pentecoste", 501],
+        ["XXIII. Dimanche après la Pentecoste", 503],
+        ["III. Dimanche restant après l’Épiphanie", 505],
+        ["IV. Dimanche restant après l’Épiphanie", 507],
+        ["V. Dimanche restant après l’Épiphanie", 509],
+        ["VI. Dimanche restant après l’Épiphanie", 511],
+        ["XXIV. Dimanche après la Pentecoste", 513]
+    ]
+}

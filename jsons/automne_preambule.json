@@ -1,0 +1,14 @@
+{
+    "folder": "automne",
+    "offset": 31,
+    "min": -30,
+    "max": 0,
+    "chapters": [
+        ["Titre", -21],
+        ["Bulles", -19],
+        ["Calendrier", -14],
+        ["Deux tables", -9],
+        ["Absolutions et bénédictions", -4],
+        ["Approbation des docteurs", 0]
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "folder": "automne",
+    "offset": 31,
+    "min": 1,
+    "max": 275,
+    "chapters": [
+        ["Dimanche à Matines", 1],
+        ["Dimanche à Laudes", 30],
+        ["Dimanche à Prime", 42],
+        ["Dimanche à Tierce", 62],
+        ["Dimanche à Sexte", 68],
+        ["Dimanche à None", 72],
+        ["Lundy à Matines", 77],
+        ["Lundy à Laudes", 97],
+        ["Mardy à Matines", 104],
+        ["Mardy à Laudes", 121],
+        ["Mercredy à Matines", 125],
+        ["Jeudy à Matines", 145],
+        ["Jeudy à Laudes", 170],
+        ["Vendredy à Matines", 175],
+        ["Vendredy à Laudes", 193],
+        ["Samedy à Matines", 198],
+        ["Samedy à Laudes", 221],
+        ["Dimanche à Vespres", 229],
+        ["Lundy à Vespres", 235],
+        ["Mardy à Vespres", 239],
+        ["Mercredy à Vespres", 243],
+        ["Jeudy à Vespres", 247],
+        ["Vendredy à Vespres", 254],
+        ["Samedy à Vespres", 261],
+        ["À Complies", 267]
+    ]
+}
