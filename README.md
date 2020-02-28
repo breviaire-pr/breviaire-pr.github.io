@@ -2,4 +2,4 @@
 
 ## TODO
 
-- Terminer Propre des Saints (automne)
+- Vérifier Propre des Saints (automne)
