@@ -1,0 +1,33 @@
+{
+    "folder": "printemps",
+    "offset": 31,
+    "min": 1,
+    "max": 266,
+    "chapters": [
+        ["Dimanche à Matines", 1],
+        ["Dimanche à Laudes", 32],
+        ["À Prime", 46],
+        ["À Tierce", 66],
+        ["À Sexte", 72],
+        ["À None", 77],
+        ["Lundy à Matines", 83],
+        ["Lundy à Laudes", 102],
+        ["Mardy à Matines", 110],
+        ["Mardy à Laudes", 127],
+        ["Mercredy à Matines", 130],
+        ["Jeudy à Matines", 149],
+        ["Jeudy à Laudes", 172],
+        ["Vendredy à Matines", 176],
+        ["Vendredy à Laudes", 193],
+        ["Samedy à Matines", 197],
+        ["Samedy à Laudes", 220],
+        ["Dimanche à Vespres", 226],
+        ["Lundy à Vespres", 231],
+        ["Mardy à Vespres", 234],
+        ["Mercredy à Vespres", 237],
+        ["Jeudy à Vespres", 240],
+        ["Vendredy à Vespres", 246],
+        ["Samedy à Vespres", 252],
+        ["À Complies", 258]
+    ]
+}

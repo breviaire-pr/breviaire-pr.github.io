@@ -1,0 +1,29 @@
+{
+    "folder": "printemps",
+    "offset": 885,
+    "min": 1,
+    "max": 358,
+    "chapters": [
+        ["Commun des Apostres", 1],
+        ["Commun des Apostres & Évangélistes", 22],
+        ["Commun d’un Martyr", 28],
+        ["Commun de plusieurs Martyrs", 53],
+        ["Commun des Martyrs au temps de Pasques", 79],
+        ["Commun d’un Confesseur Pontife", 90],
+        ["Commun des Docteurs", 115],
+        ["Commun d’un Confesseur non Pontife", 119],
+        ["Commun des Vierges", 138],
+        ["Commun des Saintes non Vierges", 170],
+        ["Commun de la Dédidace", 182],
+        ["Commun dans l’Octave de la Dédicace", 204],
+        ["Office de la Ste Vierge au Samedy", 227],
+        ["Petite Office de la Vierge", 235],
+        ["Office des Morts", 269],
+        ["Pseaumes Graduels", 305],
+        ["Les septs Pseaumes de la Pénitence", 315],
+        ["Litanies", 324],
+        ["Recommandation de l’Âme", 331],
+        ["Bénédiction de la Table", 343],
+        ["Itinéraire des Clercs", 348]
+    ]
+}

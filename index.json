@@ -1,6 +1,12 @@
 {
     "default": "automne_preambule",
     "books": [
+        ["printemps_preambule", "[printemps] Préambule"],
+        ["printemps_pseautier", "[printemps] Pseautier avec l’Ordinaire"],
+        ["printemps_propre_temps", "[printemps] Propre du Temps"],
+        ["printemps_propre_saints", "[printemps] Propre des Saints"],
+        ["printemps_commun", "[printemps] Commun des Saints"],
+
         ["automne_preambule", "[automne] Préambule"],
         ["automne_pseautier", "[automne] Pseautier avec l’Ordinaire"],
         ["automne_propre_temps", "[automne] Propre du Temps"],
@@ -9,8 +15,11 @@
         ["automne_commun", "[automne] Commun des Saints"]
     ],
     "folders": {
-        "automne": ["Le Bréviaire Romain en latin en en françois […] partie d’automne",
+        "automne": ["Le Bréviaire Romain en latin en en françois. […] Partie d’automne.",
             "Paris, Denys Thierry", 1688, "https://books.google.fr/books?id=fZBBU2aJOJ4C", {
+        }],
+        "printemps": ["Le Bréviaire Romain en latin en en françois. […] Partie du printemps.",
+            "Paris, Denys Thierry", 1688, "https://books.google.fr/books?id=GViGUoIqqXgC", {
         }]
     }
 }
