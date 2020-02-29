@@ -2,7 +2,7 @@
 
 ## TODO
 
-- Propre du Temps du Printemps
-- Propre des Saints du printemps
+- Été
+- Hiver
 
 - Signets virtuels (colorés)
