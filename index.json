@@ -1,5 +1,5 @@
 {
-    "default": "automne_preambule",
+    "default": "printemps_preambule",
     "books": [
         ["printemps_preambule", "[printemps] Préambule"],
         ["printemps_pseautier", "[printemps] Pseautier avec l’Ordinaire"],
