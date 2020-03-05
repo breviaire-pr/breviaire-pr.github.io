@@ -7,6 +7,13 @@
         ["printemps_propre_saints", "[printemps] Propre des Saints"],
         ["printemps_commun", "[printemps] Commun des Saints"],
 
+        ["ete_preambule", "[ete] Préambule"],
+        ["ete_pseautier", "[ete] Pseautier avec l’Ordinaire"],
+        ["ete_propre_temps", "[ete] Propre du Temps"],
+        ["ete_homelies", "[ete] Homélies et Oraisons"],
+        ["ete_propre_saints", "[ete] Propre des Saints"],
+        ["ete_commun", "[ete] Commun des Saints"],
+
         ["automne_preambule", "[automne] Préambule"],
         ["automne_pseautier", "[automne] Pseautier avec l’Ordinaire"],
         ["automne_propre_temps", "[automne] Propre du Temps"],
@@ -20,6 +27,9 @@
         }],
         "printemps": ["Le Bréviaire Romain en latin en en françois. […] Partie du printemps.",
             "Paris, Denys Thierry", 1688, "https://books.google.fr/books?id=GViGUoIqqXgC", {
+        }],
+        "ete": ["Le Bréviaire Romain en latin en en françois. […] Partie d’este.",
+            "Paris, Denys Thierry", 1688, "https://books.google.fr/books?id=1gzTZ7-hPUgC", {
         }]
     }
 }

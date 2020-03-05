@@ -2,7 +2,7 @@
 
 ## TODO
 
-- Été
+- Tables des matière pour l’été
 - Hiver
 
-- Signets virtuels (colorés)
+- Signets virtuels (colorés ?)

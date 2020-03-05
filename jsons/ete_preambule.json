@@ -1,0 +1,17 @@
+{
+    "folder": "ete",
+    "offset": 39,
+    "min": -38,
+    "max": 0,
+    "chapters": [
+        ["Gravure de N. Le Tourneux", -28],
+        ["Frontispice", -27],
+        ["Titre", -25],
+        ["Bulles", -23],
+        ["Calendrier", -18],
+        ["Deux tables", -11],
+        ["Absolutions et bénédictions", -6],
+        ["Approbation", -4],
+        ["Absolutions et bénédictions", -3]
+    ]
+}
