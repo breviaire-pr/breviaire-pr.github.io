@@ -1,20 +1,11 @@
-& 'C:\Program Files\gs\gs9.50\bin\gswin64c.exe' -dNOPAUSE -dBATCH -sDEVICE=pngmono -r220 -sOutputFile='pngs\ete\ete-%00d.png'
+& 'C:\Program Files\gs\gs9.50\bin\gswin64c.exe' -dNOPAUSE -dBATCH -sDEVICE=pngmono -r220 -sOutputFile='pngs\hiver\hiver-%00d.png'
 
 -dFirstPage=303 -dLastPage=303
 
-Page 1238
 
-   **** Error: File has insufficient data for an image.
-               Output may be incorrect.
+Saints 651
 
 optipng.exe *.png
-
-printemps:
-image 334 : pb
-
-& 'C:\Program Files\gs\gs9.50\bin\gswin64c.exe' -dNOPAUSE -dBATCH -sDEVICE=pngmono -r220 -sOutputFile='pngs\ete\ete-1238.png'
-
-
 
         ["Mardy à Matines", ],
         ["Mardy à Laudes", ],

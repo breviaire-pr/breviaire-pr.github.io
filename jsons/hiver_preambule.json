@@ -1,0 +1,17 @@
+{
+    "folder": "hiver_pseautier",
+    "offset": 71,
+    "min": -70,
+    "max": 0,
+    "chapters": [
+        ["Gravure de N. Le Tourneux", -60],
+        ["Frontispice", -59],
+        ["Titre", -57],
+        ["Bulles", -55],
+        ["Calendrier", -50],
+        ["Rubriques", -43],
+        ["Absolutions et bénédictions", -6],
+        ["Approbation", -4],
+        ["Absolutions et bénédictions", -3]
+    ]
+}

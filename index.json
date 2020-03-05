@@ -1,6 +1,12 @@
 {
     "default": "printemps_preambule",
     "books": [
+        ["hiver_preambule", "[hiver] Préambule"],
+        ["hiver_pseautier", "[hiver] Pseautier avec l’Ordinaire"],
+        ["hiver_propre_temps", "[hiver] Propre du Temps"],
+        ["hiver_propre_saints", "[hiver] Propre des Saints"],
+        ["hiver_commun", "[hiver] Commun des Saints"],
+
         ["printemps_preambule", "[printemps] Préambule"],
         ["printemps_pseautier", "[printemps] Pseautier avec l’Ordinaire"],
         ["printemps_propre_temps", "[printemps] Propre du Temps"],
@@ -22,13 +28,19 @@
         ["automne_commun", "[automne] Commun des Saints"]
     ],
     "folders": {
+        "hiver_pseautier": ["Le Bréviaire Romain en latin en en françois. […] Partie d’hyver.",
+            "Paris, Denys Thierry", 1688, "https://books.google.fr/books?id=7gTcjdb0GnQC", {
+        }],
+        "hiver": ["Le Bréviaire Romain en latin en en françois. […] Partie d’hyver.",
+            "Paris, Denys Thierry", 1688, "https://books.google.fr/books?id=7gTcjdb0GnQC", {
+        }],
         "automne": ["Le Bréviaire Romain en latin en en françois. […] Partie d’automne.",
             "Paris, Denys Thierry", 1688, "https://books.google.fr/books?id=fZBBU2aJOJ4C", {
         }],
         "printemps": ["Le Bréviaire Romain en latin en en françois. […] Partie du printemps.",
             "Paris, Denys Thierry", 1688, "https://books.google.fr/books?id=GViGUoIqqXgC", {
         }],
-        "ete": ["Le Bréviaire Romain en latin en en françois. […] Partie d’este.",
+        "ete": ["Le Bréviaire Romain en latin en en françois. […] Partie d’esté.",
             "Paris, Denys Thierry", 1688, "https://books.google.fr/books?id=1gzTZ7-hPUgC", {
         }]
     }
