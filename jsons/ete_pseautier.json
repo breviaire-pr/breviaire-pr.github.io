@@ -11,6 +11,24 @@
         ["À Sexte", 65],
         ["À None", 69],
         ["Lundy à Matines", 74],
-        ["Lundy à Laudes", 94]
+        ["Lundy à Laudes", 94],
+        ["Mardy à Matines", 101],
+        ["Mardy à Laudes", 118],
+        ["Mercredy à Matines", 122],
+        ["Mercredy à Laudes", 138],
+        ["Jeudy à Matines", 142],
+        ["Jeudy à Laudes", 167],
+        ["Vendredy à Matines", 172],
+        ["Vendredy à Laudes", 190],
+        ["Samedy à Matines", 195],
+        ["Samedy à Laudes", 218],
+        ["Dimanche à Vespres", 226],
+        ["Lundy à Vespres", 232],
+        ["Mardy à Vespres", 236],
+        ["Mercredy à Vespres", 240],
+        ["Jeudy à Vespres", 244],
+        ["Vendredy à Vespres", 251],
+        ["Samedy à Vespres", 258],
+        ["À Complies", 264]
     ]
 }

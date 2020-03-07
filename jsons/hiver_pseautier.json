@@ -4,6 +4,31 @@
     "min": 1,
     "max": 282,
     "chapters": [
-        ["Dimanche à Matines", 1]
+        ["Dimanche à Matines", 1],
+        ["Dimanche à Laudes", 32],
+        ["À Prime", 43],
+        ["À Tierce", 64],
+        ["À Sexte", 70],
+        ["À None", 75],
+        ["Lundy à Matines", 80],
+        ["Lundy à Laudes", 103],
+        ["Mardy à Matines", 110],
+        ["Mardy à Laudes", 127],
+        ["Mercredy à Matines", 131],
+        ["Mercredy à Laudes", 147],
+        ["Jeudy à Matines", 151],
+        ["Jeudy à Laudes", 176],
+        ["Vendredy à Matines", 181],
+        ["Vendredy à Laudes", 199],
+        ["Samedy à Matines", 204],
+        ["Samedy à Laudes", 228],
+        ["Dimanche à Vespres", 235],
+        ["Lundy à Vespres", 241],
+        ["Mardy à Vespres", 245],
+        ["Mercredy à Vespres", 249],
+        ["Jeudy à Vespres", 253],
+        ["Vendredy à Vespres", 260],
+        ["Samedy à Vespres", 267],
+        ["À Complies", 273]
     ]
 }
