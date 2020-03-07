@@ -13,12 +13,12 @@
         ["printemps_propre_saints", "[printemps] Propre des Saints"],
         ["printemps_commun", "[printemps] Commun des Saints"],
 
-        ["ete_preambule", "[ete] Préambule"],
-        ["ete_pseautier", "[ete] Pseautier avec l’Ordinaire"],
-        ["ete_propre_temps", "[ete] Propre du Temps"],
-        ["ete_homelies", "[ete] Homélies et Oraisons"],
-        ["ete_propre_saints", "[ete] Propre des Saints"],
-        ["ete_commun", "[ete] Commun des Saints"],
+        ["ete_preambule", "[été] Préambule"],
+        ["ete_pseautier", "[été] Pseautier avec l’Ordinaire"],
+        ["ete_propre_temps", "[été] Propre du Temps"],
+        ["ete_homelies", "[été] Homélies et Oraisons"],
+        ["ete_propre_saints", "[été] Propre des Saints"],
+        ["ete_commun", "[été] Commun des Saints"],
 
         ["automne_preambule", "[automne] Préambule"],
         ["automne_pseautier", "[automne] Pseautier avec l’Ordinaire"],

@@ -4,6 +4,18 @@
     "min": 523,
     "max": 551,
     "chapters": [
-        ["III. Dimanche après la Pentecoste", 523]
+        ["III. Dimanche après la Pentecoste", 523],
+        ["IV. Dimanche après la Pentecoste", 525],
+        ["V. Dimanche après la Pentecoste", 527],
+        ["VI. Dimanche après la Pentecoste", 530],
+        ["VII. Dimanche après la Pentecoste", 532],
+        ["VIII. Dimanche après la Pentecoste", 534],
+        ["IX. Dimanche après la Pentecoste", 536],
+        ["X. Dimanche après la Pentecoste", 538],
+        ["XI. Dimanche après la Pentecoste", 541],
+        ["XII. Dimanche après la Pentecoste", 543],
+        ["XIII. Dimanche après la Pentecoste", 545],
+        ["XIV. Dimanche après la Pentecoste", 547],
+        ["XV. Dimanche après la Pentecoste", 549]
     ]
 }
