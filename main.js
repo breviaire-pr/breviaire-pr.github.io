@@ -214,7 +214,7 @@ const sacy_be_init = (canonicalArg, baseArg, documentTitleArg) => {
 
     let update = () => {
         console.log("update called…")
-        sites.value = CANONICAL
+        //sites.value = CANONICAL
         const page = parseInt(pageSelector.value)
         const pagePaire = ((page % 2) == 0) ? page : page - 1
         const pageImpaire = pagePaire + 1

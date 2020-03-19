@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link id="canonical" rel="canonical" href="http://lgd-fr.github.io/proto-br/" />
+    <title>Bréviaire</title>
+    <style>
+    .darkmode--activated  img {
+        filter: invert(100%);
+    }
+    </style>
+  </head>
+  <body style="margin-bottom: 0px">
+      <div id="main" style="margin: auto; text-align: center;">
+
+        <div style="text-align: center; margin-left: auto; margin-right: auto; margin-bottom: 0.5em;">
+            <select name="sites" id="sites">
+                <option selected value="/hiver">Bréviaire d’Hiver</option>
+                <option value="/printemps">Bréviaire de Printemps</option>
+                <option value="/ete">Bréviaire d’Été</option>
+                <option value="/automne">Bréviaire d’Automne</option>
+            </select>
+            |       
+            <form id="book-form" style="display: inline">
+                <label for="books">Partie</label>
+                <select name="books" id="books">
+                </select>
+                |
+                <label for="chapters">Aller à&nbsp;:</label>
+                <select name="chapters" id="chapters">
+                </select>
+                |
+                <button id="displayInfo"><span id="infoIcon">ℹ</span>&nbsp;info</button>
+            </form>
+        </div>
+        <div id="infoWindow" style="margin-top: 0.2em; margin-bottom: 0.4em; display: none; text-align: center;" >
+            <hr/>
+                Page courante tirée de : <span style="font-style: italic;" id="bookInfo"></span>, <span id="editionInfo"></span>
+                <a id="pdfLink" target="_blank">(document original)</a>
+                 <br/>
+                 <button id="hideInfo" style="margin-top: 0.3em;"><small>❌&nbsp;cacher ces informations</small></button>
+              </div>      
+        <hr/>
+        <div style="text-align: center; margin-left: auto; margin-right: auto;">
+            <button id="prev-top" style="width: 25%; font-weight: bold;">&larr;</button>
+            &nbsp;
+            <form id="page-form" style="display: inline">
+                    <label for="pages">Page</label>&nbsp;<input type="number" id="pages" name="pages"/>
+            </form>
+            <button id="toggleViewButton">🗏🗏</button>
+            &nbsp;
+            <button id="next-top" style="width: 25%; font-weight: bold;">&rarr;</button>
+        </div>
+
+        <div id="fautes" style="margin-top: 0.2em; font-weight: bold; font-size: larger;"></div>
+
+        <div id="hammer" style="margin: auto; text-align: center;">
+            <div class="image">
+                <img id="page" style="max-width: 50em; width: 100%; min-width: 20em;"/>
+            </div>
+            
+            <div class="image">
+                <img id="page-paire" style="max-width: 50em; width: 47%;"/>
+                <img id="page-impaire" style="max-width: 50em; width: 47%;"/>
+            </div>
+        </div>
+
+        <div style="text-align: center; margin: auto;">
+                <button id="prev-bottom" style="width: 30%; font-weight: bold;">&larr;</button>
+                &nbsp;&nbsp;
+                <button id="next-bottom" style="width: 30%; font-weight: bold;">&rarr;</button>
+            </div>
+    
+      </div>
+        <script src="../hammer.min.js"></script>
+        <script src="../main.js"></script>
+        <script>
+            sacy_be_init('http://lgd-fr.github.io/proto-br/', '', 'Bréviaire')
+        </script>
+        <script src="../darkmode-js.min.js"></script>
+        <script src="../darkmode-config.js"></script>
+  </body>
+</html>

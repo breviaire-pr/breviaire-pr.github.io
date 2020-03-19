@@ -1,0 +1,16 @@
+{
+    "default": "preambule",
+    "books": [
+        ["preambule", "Préambule"],
+        ["pseautier", "Pseautier avec l’Ordinaire"],
+        ["propre_temps", "Propre du Temps"],
+        ["homelies", "Homélies et Oraisons"],
+        ["propre_saints", "Propre des Saints"],
+        ["commun", "Commun des Saints"]
+    ],
+    "folders": {
+        "automne": ["Le Bréviaire Romain en latin en en françois. […] Partie d’automne.",
+            "Paris, Denys Thierry", 1688, "https://books.google.fr/books?id=fZBBU2aJOJ4C", {
+        }]
+    }
+}
