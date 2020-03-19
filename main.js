@@ -201,6 +201,18 @@ const sacy_be_init = (canonicalArg, baseArg, documentTitleArg) => {
             pageSelector.value = parseInt(p)
             console.log("update from setPage")
             update()
+        } else if (p > max) {
+            let bookIdx = bookList.indexOf(books.value)
+            if (bookIdx < bookList.length - 1) {
+                books.value = bookList[bookIdx + 1]
+                return useBook(books.value, p)
+            }
+        } else if (p < min) {
+            let bookIdx = bookList.indexOf(books.value)
+            if (bookIdx > 0) {
+                books.value = bookList[bookIdx - 1]
+                return useBook(books.value, p)
+            }
         }
     }
 
@@ -216,6 +228,21 @@ const sacy_be_init = (canonicalArg, baseArg, documentTitleArg) => {
         console.log("update called…")
         //sites.value = CANONICAL
         const page = parseInt(pageSelector.value)
+        if (page > max) {
+            let bookIdx = bookList.indexOf(books.value)
+            if (bookIdx < bookList.length - 1) {
+                books.value = bookList[bookIdx + 1]
+                return useBook(books.value, page)
+            }
+            return
+        } else if (page < min) {
+            let bookIdx = bookList.indexOf(books.value)
+            if (bookIdx > 0) {
+                books.value = bookList[bookIdx - 1]
+                return useBook(books.value, page)
+            }
+            return
+        }
         const pagePaire = ((page % 2) == 0) ? page : page - 1
         const pageImpaire = pagePaire + 1
         const number = offset + page
@@ -287,7 +314,7 @@ const sacy_be_init = (canonicalArg, baseArg, documentTitleArg) => {
             clearErrors()
         }
         if (books.selectedOptions[0]) {
-            document.title = `${DOCUMENT_TITLE} : ${books.selectedOptions[0].innerText} p. ${page}`
+            document.title = `p.${page} ${books.selectedOptions[0].innerText} (${DOCUMENT_TITLE})`
         }
     }
 

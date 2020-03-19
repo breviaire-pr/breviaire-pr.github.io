@@ -1,11 +1,11 @@
 {
     "default": "preambule",
     "books": [
-        ["preambule", "Préambule"],
-        ["pseautier", "Pseautier avec l’Ordinaire"],
-        ["propre_temps", "Propre du Temps"],
-        ["propre_saints", "Propre des Saints"],
-        ["commun", "Commun des Saints"]
+        ["preambule", "Calendrier"],
+        ["pseautier", "Pseautier"],
+        ["propre_temps", "Temps"],
+        ["propre_saints", "Saints"],
+        ["commun", "Commun"]
     ],
     "folders": {
         "hiver_pseautier": ["Le Bréviaire Romain en latin en en françois. […] Partie d’hyver.",
