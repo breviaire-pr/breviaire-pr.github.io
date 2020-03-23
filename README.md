@@ -1,5 +1,1 @@
-# proto-br
-
-## TODO
-
-- Signets virtuels (colorés ?)
+# breviaire-pr.github.io
