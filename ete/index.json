@@ -11,6 +11,9 @@
     "folders": {
         "ete": ["Le Bréviaire Romain en latin en en françois. […] Partie d’esté.",
             "Paris, Denys Thierry", 1688, "https://books.google.fr/books?id=AyuNawGnVRYC", {
+        }],
+        "trimmed-ete": ["Le Bréviaire Romain en latin en en françois. […] Partie d’esté.",
+            "Paris, Denys Thierry", 1688, "https://books.google.fr/books?id=AyuNawGnVRYC", {
         }]
     }
 }

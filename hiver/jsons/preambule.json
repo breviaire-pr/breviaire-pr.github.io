@@ -1,7 +1,7 @@
 {
-    "folder": "hiver_pseautier",
+    "folder": "trimmed-hiver_pseautier",
     "offset": 71,
-    "min": -70,
+    "min": -60,
     "max": 0,
     "chapters": [
         ["Gravure de N. Le Tourneux", -60],

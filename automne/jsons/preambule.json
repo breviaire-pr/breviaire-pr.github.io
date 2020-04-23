@@ -1,7 +1,7 @@
 {
-    "folder": "automne",
+    "folder": "trimmed-automne",
     "offset": 31,
-    "min": -30,
+    "min": -21,
     "max": 0,
     "chapters": [
         ["Titre", -21],

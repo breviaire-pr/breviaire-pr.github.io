@@ -10,6 +10,9 @@
     "folders": {
         "printemps": ["Le Bréviaire Romain en latin en en françois. […] Partie du printemps.",
             "Paris, Denys Thierry", 1688, "https://books.google.fr/books?id=GViGUoIqqXgC", {
+        }],
+        "trimmed-printemps": ["Le Bréviaire Romain en latin en en françois. […] Partie du printemps.",
+            "Paris, Denys Thierry", 1688, "https://books.google.fr/books?id=GViGUoIqqXgC", {
         }]
     }
 }

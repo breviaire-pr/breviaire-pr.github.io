@@ -8,6 +8,12 @@
         ["commun", "Commun"]
     ],
     "folders": {
+        "trimmed-hiver_pseautier": ["Le Bréviaire Romain en latin en en françois. […] Partie d’hyver.",
+            "Paris, Denys Thierry", 1688, "https://books.google.fr/books?id=7gTcjdb0GnQC", {
+        }],
+        "trimmed-hiver": ["Le Bréviaire Romain en latin en en françois. […] Partie d’hyver.",
+            "Paris, Denys Thierry", 1688, "https://books.google.fr/books?id=7gTcjdb0GnQC", {
+        }],
         "hiver_pseautier": ["Le Bréviaire Romain en latin en en françois. […] Partie d’hyver.",
             "Paris, Denys Thierry", 1688, "https://books.google.fr/books?id=7gTcjdb0GnQC", {
         }],

@@ -1,8 +1,8 @@
 {
-    "folder": "ete",
+    "folder": "trimmed-ete",
     "offset": 929,
     "min": 1,
-    "max": 336,
+    "max": 327,
     "chapters": [
         ["Commun des Apostres", 1],
         ["Commun d’un Martyr", 22],

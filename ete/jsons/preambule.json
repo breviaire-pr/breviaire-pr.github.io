@@ -1,7 +1,7 @@
 {
-    "folder": "ete",
+    "folder": "trimmed-ete",
     "offset": 39,
-    "min": -38,
+    "min": -28,
     "max": 0,
     "chapters": [
         ["Gravure de N. Le Tourneux", -28],
