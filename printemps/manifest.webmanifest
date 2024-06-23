@@ -1,12 +1,12 @@
 {
-    "name": "Bréviaire de Nicolas Le Tourneux",
-    "short_name": "Bréviaire",
+    "name": "Printemps–Bréviaire de Nicolas Le Tourneux",
+    "short_name": "Printemps–Bréviaire",
     "icons": [{
           "src": "icon-512x512.png",
           "sizes": "512x512",
           "type": "image/png"
         }],
-    "start_url": "/hiver/index.html",
+    "start_url": "/printemps/index.html",
     "display": "fullscreen",
     "background_color": "white",
     "theme_color": "black",
